@@ -1,7 +1,6 @@
 ![MasterHead](https://www.webstep.in/wp-content/uploads/2022/11/MicrosoftTeams-image-3.jpg)
 <h1 align="center">
-👋
-  <code>&lt;h1&gt;Hello World&lt;/h1&gt;
+<code>&lt;h1&gt;Hello World&lt;/h1&gt;
 </code>
 I'm Md. Sahadat Hossen Tanim</h1>
 <h3 align="center">A passionate MERN Stack Developer with a focus on creating seamless and engaging user experiences.</h3>
