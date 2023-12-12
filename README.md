@@ -15,7 +15,7 @@ I'm Md. Sahadat Hossen Tanim</h1>
 - Other: Git, RESTful APIs, JWT Authentication
 
 🌈 What I Love:
-- Crafting pixel-perfect, responsive UIs that delight users
+- Crafting pixel-perfect, responsive Websites that delight users
 - Solving complex problems with clean and efficient code
 - Constantly learning and staying up-to-date with the latest web technologies
 
