@@ -9,10 +9,7 @@ I'm Md. Sahadat Hossen Tanim</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanim0195&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanim0195" /> </p>
 🚀 My Tech Stack:
-- Frontend: React.js (Hooks, Context), Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Other: Git, RESTful APIs, JWT Authentication
+ React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Git, RESTful APIs, JWT Authentication
 
 🌈 What I Love:
 - Crafting pixel-perfect, responsive Websites that delight users
